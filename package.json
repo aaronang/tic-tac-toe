@@ -2,6 +2,10 @@
   "name": "tic-tac-toe",
   "version": "0.1.0",
   "private": true,
+  "description": "React implementation of Tic Tac Toe.",
+  "author": "Aaron Ang",
+  "repository": "https://github.com/aaronang/tic-tac-toe",
+  "licenses": "MIT",
   "devDependencies": {
     "react-scripts": "0.7.0"
   },
